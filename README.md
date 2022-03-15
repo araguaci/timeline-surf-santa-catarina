@@ -1,4 +1,8 @@
-# Static timeline generator
+# Timeline Surf Santa Catarina
+
+[working in progress](./TIMELINE.md)
+
+## Static timeline generator
 
 Easily create a static timeline webpage like my [Wikimedia timeline](https://www.mollywhite.net/wikimedia-timeline/).
 
