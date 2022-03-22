@@ -185,7 +185,7 @@ const entries = [{
         title: '2013 - Tomas Hermes (SC) FECASURF',
         image: {
             link: 'http://surfbox.com.br/2013/09/acores-prime-tomas-hermes-vence-portugal/',
-            src: 'http://surfbox.com.br/wp-content/uploads/2013/09/tomas_capa.jpg',
+            src: '/img/tomas_capa.jpg',
             alt: 'Açores Prime – Tomas Hermes vence em Portugal',
             caption: 'Tomas Hermes',
         },
