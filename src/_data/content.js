@@ -226,7 +226,7 @@ const entries = [{
         title: '2011 - Tiago Bianchini (SC) FECASURF',
         image: {
             link: 'http://www.pugasurfshop.com/blog/tiago-bianchini-vence-o-oakley-santa-catarina-surf-pro-na-praia-da-joaquina',
-            src: 'http://www.pugasurfshop.com/blog/pugasurfshop/blog/wp-content/uploads/2011/03/177906_622x415-300x200.jpg',
+            src: '/img/tiagobianchini.jpg',
             alt: 'Tiago Bianchini vence o OAKLEY SANTA CATARINA SURF PRO na Praia da Joaquina',
             caption: 'Tiago Bianchini',
         },
