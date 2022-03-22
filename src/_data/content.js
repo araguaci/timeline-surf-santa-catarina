@@ -1,5 +1,5 @@
 const header = 'Linha do Tempo de eventos importantes relacionados ao surfe em Santa Catarina <br />História da Evolução do Surfe no Estado e Escolas de Surf FECEESS / ACES';
-const footer = 'F.E.C.E.E.S.S. ☆ A.C.E.S. SC - Unindo talentos e fortalecendo a educação e o esporte em Santa Catarina';
+const footer = '<a href=""><img src="https://escolasdesurf.org.br/wp-content/uploads/2021/08/cropped-feceess-logo.png" style="height: 144px;"/><br />F.E.C.E.E.S.S. ☆ A.C.E.S. SC<br />Unindo talentos e fortalecendo a educação e o esporte em Santa Catarina</a>';
 /* https://faicons.com/ 
     shield
     trophy
