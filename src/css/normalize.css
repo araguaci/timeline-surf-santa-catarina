@@ -418,6 +418,9 @@ template {
     display: none;
 }
 
+ul li a {
+    list-style-type: circle;
+}
 
 /*
 .timeline-description ul {

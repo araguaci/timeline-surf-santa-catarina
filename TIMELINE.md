@@ -11,64 +11,64 @@ on 07-08-2009 22:10 (15600 reads)
 Linha do Tempo de eventos importantes relacionados ao surfe em Santa Catarina.  
 História da evolução do surfe no estado e Escolas de Surf com o apoio da ACES.
 
- - [x] 2022
+### [x] 2022
 
 *   A primeira campeã catarinense profissional da história, Tainá Hinckel que é campeã sul-americana Pro Junior Sub-18 da WSL Latin America em 2016 e 2019, garante o inédito título catarinense profissional de 2021 aqui na Praia do Santinho.
 *   MATEUS HERDY, vencedor do COSTÃO SURF PRO e novo Campeão Catarinense de Surf Profissional, temporada 2021
 
- - [x] 2021
+### [x] 2021
 
 *   Retrospectiva 2021 - Adeus ao Samurai | Waves
 	Amigos e familiares de Marcelo Tonon, surfista catarinense morto enquanto surfava, celebram a memória do Samurai da praia da Joaquina (SC).
  
- - [x] 2020
+### [x] 2020
 
 *   Ian Gouveia (PE) em 1 etapa virtual pela internet
 
- - [x] 2019
+### [x] 2019
 
 *   Luan Wood (SC) - CAMPEÃO FECASURF
 
- - [x] 2018
+### [x] 2018
 
 *   Uriel Sposaro (SC) - CAMPEÃO FECASURF
 
- - [x] 2017
+### [x] 2017
 
 *   Caetano Vargas (PR) BICAMPEÃO FECASURF
 
- - [x] 2016
+### [x] 2016
 
 *   Caetano Vargas (PR) - FECASURF
 
- - [x] 2015
+### [x] 2015
 
 *   André Moi (SC) - CAMPEÃO FECASURF
 *   Nasce o projeto KEEP THE OCEAN BLUE desenvolvido pela @OceanoSurfwear. O principal objetivo é preservar a natureza e a limpeza das nossas praias. 
 
- - [x] 2014
+### [x] 2014
 
 *   Marco Giorgi (URU)
 
- - [x] 2013
+### [x] 2013
 
 *   Tomas Hermes (SC) - FECASURF BICAMPEÃO
 
- - [x] 2012
+### [x] 2012
 
 *   Yuri Gonçalves (SC) - CAMPEÃO FECASURF
 
- - [x] 2011
+### [x] 2011
 
 *   Tiago Bianchini (SC) - CAMPEÃO FECASURF
 
- - [ ] 2010
+### [ ] 2010
 
 *   Tomas Hermes (SC) - CAMPEÃO FECASURF
 *   Na última edição da etapa mundial em Santa Catarina, o potiguar Jadson André foi o campeão, derrotando Kelly Slater na final, na Praia da Vila, em Imbituba.
 *   Juliana Quint, vice-campeã brasileira em 2010
 
- - [ ] 2009
+### [ ] 2009
 
 *   Tânio Barreto (AL) - CAMPEÃO FECASURF
 *   Parceria ACES com Ilhas do Brasil ([site Ilhas do Brasil](http://www.ilhasdobrasil.org.br/))
@@ -76,7 +76,7 @@ História da evolução do surfe no estado e Escolas de Surf com o apoio da ACES
 *   Título WCT - Neco Padaratz (SC-BRA)
 *   Gabriel Medina, o fenômeno, vence, aos 15 anos, sua primeira competição profissional internacional, uma etapa do WQS na Praia Mole
 
- - [ ] 2008
+### [ ] 2008
 
 *   Marco Polo (SC) - CAMPEÃO FECASURF BICAMPEÃO
 *   CREF Reconhece professores de surf ([portal CREF-SC](http://www.crefsc.org.br/))
@@ -86,7 +86,7 @@ História da evolução do surfe no estado e Escolas de Surf com o apoio da ACES
 *   Título WQS - Jean da Silva (SC-BRA)
 *   Título WQS - William Cardoso (SC-BRA)
 
- - [ ] 2007
+### [ ] 2007
 
 *   Marco Polo (SC) - CAMPEÃO FECASURF
 *   São Paulo fala de Floripa
@@ -95,7 +95,7 @@ História da evolução do surfe no estado e Escolas de Surf com o apoio da ACES
 *   Jaqueline Silva Bi Campeã Mundial WQS
 *   Fabrício Caldas da Escola de Surf Costão do Santinho nomeado Coordenador do IIPDROG (Instituto Internacional de Prevenção as Drogas) em Santa Catarina
 
- - [ ] 2006
+### [ ] 2006
 
 *   Diego Rosa (SC) - CAMPEÃO FECASURF BICAMPEÃO
 *   Primeiro Campeonato de Tow in no Brasil
@@ -106,7 +106,7 @@ História da evolução do surfe no estado e Escolas de Surf com o apoio da ACES
 *   Título WQS - Neco Padaratz (SC-BRA)
 *   Costão do Santinho recebe primeira etapa de um QS feminino no Brasil, vencido pela paraibana Diana Cristina, que na época, se tornou a mais jovem campeã de um evento do Circuito Mundial com apenas 15 anos
 
- - [ ] 2005
+### [ ] 2005
 
 *   Jean da Silva (SC) - CAMPEÃO FECASURF
 *   Criação da Escola Paraiso do Surf (Praia dos Açores)
@@ -114,7 +114,7 @@ História da evolução do surfe no estado e Escolas de Surf com o apoio da ACES
 *   Início do Projeto Surf Social com convênio entre a Escola Pública Maria Tomázia Coelho e a Escola de Surf Costão do Santinho
 *   A Diretoria de Marketing da ACES capta R$ 80.000.00 junto ao diretor de Mk Carlos Bonneto para realizar um mega evento intitulado Surf no Beiramar durante todo o verão no shopping Beiramar em Florianópolis, lançando a nova diretoria, propostas da ACES e divulgando as escolas de surf credenciadas.
 
- - [ ] 2004
+### [ ] 2004
 
 *   Diego Rosa (SC) - CAMPEÃO FECASURF
 *   Furacão Catarina
@@ -123,7 +123,7 @@ História da evolução do surfe no estado e Escolas de Surf com o apoio da ACES
 *   Título WQS - Neco Padaratz (SC-BRA)
 *   Acontece a primeira Clínica de Surf realizada pela Escola de Surf Costão do Santinho no Costão do Santinho Resort (mega evento)
 
- - [ ] 2003
+### [ ] 2003
 
 *   Raphael Becker (SC) - CAMPEÃO FECASURF
 *   Escola de Surf Itarare
@@ -135,7 +135,7 @@ História da evolução do surfe no estado e Escolas de Surf com o apoio da ACES
 *   Título WQS - Neco Padaratz (SC-BRA)
 *   Título WQS - Neco Padaratz (SC-BRA)
 
- - [ ] 2002
+### [ ] 2002
 
 *   Neco Padaratz (SC) - CAMPEÃO FECASURF
 *   1º. Guga Arruda (SC) - CAMPEÃO FECASURF / 3ª SuperTrials
@@ -157,7 +157,7 @@ História da evolução do surfe no estado e Escolas de Surf com o apoio da ACES
 *   Onbongo Pro Surfing
 *   Escola de surf Costão do Santinho firma primeiro Intercâmbio Luso Brasileiro entre Escolas de Surf com o Surf Clube de Viana na cidade de Viana do Castelo ao norte de Portugal
 
- - [ ] 2001
+### [ ] 2001
 
 *   Fabio Carvalho (SC) - CAMPEÃO FECASURF BICAMPEÃO
 *   Teco Bi Campeão Mundial WQS
@@ -171,7 +171,7 @@ História da evolução do surfe no estado e Escolas de Surf com o apoio da ACES
 *   WQS 04
 *   Reef Brazil Classic
 
- - [ ] 2000
+### [ ] 2000
 
 *   James Santos (SC) - CAMPEÃO FECASURF BICAMPEÃO
 *   Praia Mole Surf Clube
@@ -185,7 +185,7 @@ História da evolução do surfe no estado e Escolas de Surf com o apoio da ACES
 *   WQS 27
 *   Maresia Surf Floripa
 
- - [ ] 1999
+### [ ] 1999
 
 *   Guga Arruda (SC) -  BICAMPEÃO FECASURF
 *   Campeonato No Fear de Ondas Grandes, na Praia da Vila. Quem venceu foi o Fabio Carvalho, 2o. Dê da Barra. 3o. Guilherme Ferreira e 4o. Pedro Muller.
@@ -202,7 +202,7 @@ História da evolução do surfe no estado e Escolas de Surf com o apoio da ACES
 *   Maresia Surf Floripa
 *   1a. Edição do OCEANO 100% SURF AMADOR - São Francisco
 
- - [ ] 1998
+### [ ] 1998
 
 *   Teco Padaratz (SC) - CAMPEÃO FECASURF
 *   Fabio Gouveia - Campeão Mundial amador
@@ -215,21 +215,21 @@ História da evolução do surfe no estado e Escolas de Surf com o apoio da ACES
 *   WQS 27
 *   Maresia Surf Floripa
 
- - [ ] 1997
+### [ ] 1997
 
 *   Luli Pereira (SC) - CAMPEÃO FECASURF
 *   Projeto Pro-menor recebe prêmio do Ministro dos Esportes Pele
 *   Primeiro Surf Treino Praia Mole
 *   Escola de Surf Evandro Santos - Mole
 
- - [ ] 1996
+### [ ] 1996
 
 *   James Santos (SC) - CAMPEÃO FECASURF
 *   Jaqueline Campeã Brasileira Amadora
 *   Título WQS - Flávio Padaratz (SC-BRA)
 *   Título WQS - Neco Padaratz (SC-BRA)
 
- - [ ] 1995
+### [ ] 1995
 
 *   Guga Arruda (SC) - CAMPEÃO FECASURF
 *   Escola de Surf Barra
@@ -239,7 +239,7 @@ História da evolução do surfe no estado e Escolas de Surf com o apoio da ACES
 *   Nescau Surf Energy
 *   Fundada por Wilson Neves a Escola de Surf Costão do Santinho junto ao Costão do Santinho Resort
 
- - [ ] 1994
+### [ ] 1994
 
 *   Junior Maciel (SC) - CAMPEÃO FECASURF
 *   Andre Barcelos - Campeão Catarinense
@@ -250,7 +250,7 @@ História da evolução do surfe no estado e Escolas de Surf com o apoio da ACES
 *   WQS 43
 *   Nescau Surf Energy
 
- - [ ] 1993
+### [ ] 1993
 
 *   Fabio Carvalho (SC) - CAMPEÃO FECASURF
 *   Escola de Surf HD Campeões do Futuro - Bira Schauffert, Evandro Santos, André Barcelos e Matuzalém Gonzaga
@@ -258,7 +258,7 @@ História da evolução do surfe no estado e Escolas de Surf com o apoio da ACES
 *   Escola de Surf Barra Floripa
 *   Desfile Tainha Fashion
 
- - [ ] 1992
+### [ ] 1992
 
 *   Carlos Santos (SC) - CAMPEÃO FECASURF
 *   1 Etapa de WQS realizada no Brasil - Joaquina - Organizado por Bira Schauffert
@@ -268,35 +268,35 @@ História da evolução do surfe no estado e Escolas de Surf com o apoio da ACES
 *   WQS 03
 *   Florianópolis Pro
 
- - [ ] 1991
+### [ ] 1991
 
 *   não houve circuito
 
- - [ ] 1990
+### [ ] 1990
 
 *   Saulo Lyra (SC) - CAMPEÃO FECASURF
 *   Escola Surf Tours - 1a. Escola de Surf de Santa Catarina (Fred D'orey, Bira Schauffert, André Barcelos, Evandro Santos, Rafael Azevedo, Rossi)
 *   4ª etapa do Circuito Brasileiro
 
- - [ ] 1989
+### [ ] 1989
 
 *   Ivan Junkes (SC) - CAMPEÃO FECASURF BICAMPEÃO
 *   1ª etapa do Circuito Brasileiro - 5º Op Pro7ª etapa do Circuito Brasileiro - Sea Club
 
- - [ ] 1988
+### [ ] 1988
 
 *   Icaro Cavalheiro (SC) - CAMPEÃO FECASURF
 *   ASP 15
 *   Hang Loose Pro
 *   Circuito ASJ - 2a. Etapa
 
- - [ ] 1987
+### [ ] 1987
 
 *   Ivan Junkes (SC) - CAMPEÃO FECASURF
 *   Fundação da ABRASP
 *   Transformação da Associação Catarinense de Surf em Federação Catarinense de Surf - FECASURF
 
- - [ ] 1986
+### [ ] 1986
 
 *   Luiz Neguinho (SC) - CAMPEÃO FECASURF
 *   2º Op Pro
@@ -307,7 +307,7 @@ História da evolução do surfe no estado e Escolas de Surf com o apoio da ACES
 *   ASP 11
 *   2º Hang Loose Pro
 
- - [ ] 1985
+### [ ] 1985
 
 *   Waldemar “Bilo” Wetter (SC) - CAMPEÃO FECASURF
 *   1º Op Pro
@@ -315,30 +315,30 @@ História da evolução do surfe no estado e Escolas de Surf com o apoio da ACES
 *   3º Floripão de Surf
 *   Taça Primo de Surf
 
- - [ ] 1984
+### [ ] 1984
 
 *   David Husadel (SC) - CAMPEÃO FECASURF tricampeão
 
- - [ ] 1983
+### [ ] 1983
 
 *   David Husadel (SC) - CAMPEÃO FECASURF BICAMPEÃO
 
- - [ ] 1982
+### [ ] 1982
 
 *   David Husadel (SC) - CAMPEÃO FECASURF - Campeão FECASURF 
 *   Festival Olympicus
 
- - [ ] 1981
+### [ ] 1981
 
 *   Picuruta Salazar (SP)
 
- - [ ] 1980 
+### [ ] 1980 
 
 *   Roberto Lima (SC) - CAMPEÃO FECASURF - Campeão FECASURF 
 *   Criação da Associação Catarinense de Surf
 * 	Shaper Afonso cria OCEANO em Joinville, um surfista apaixonado resolve fabricar pranchas de surf
 
- - [x] 1976 
+### [x] 1976 
 
 *   Rock, Surf e Brotos - Joaquina
 
