@@ -3,12 +3,14 @@
 html
 	width: 100%
 	height: 100%
+	background-color: $header-footer-background
 
 body
 	width: 100%
 	height: 100%
 	background-color: $main-background
 	font-family: 'Hind Vadodara', sans-serif
+	font-size: 1.2em
 
 h1
 	font-family: 'Roboto Slab', serif
@@ -22,31 +24,42 @@ a
 	&:hover,
 	&:focus
 		text-decoration: underline
+time 
+	font-size: 1.36em
+	font-weight: bold
+
+page-header 
+	background-color: $header-footer-background
 
 header.page-header,
 footer.page-footer
 	background-color: $header-footer-background
-	padding: 40px 0
+	padding: 30px 0
 	text-align: center
-	font-size: 25px
 
 	p
-		width: 80%
+		width: 90%
 		max-width: 1400px
 		line-height: 120%
 		color: #eee
-		margin: 5px auto 5px auto
+		margin: 0px auto 10px auto
+		font-size: 136%
 
 	a
 		color: $header-footer-link-color
 
 footer.page-footer
 	padding: 10px 0
-	font-size: 14px
+
+.sectiontimeline
+	background-color: $timeline-background
 
 .timeline-filter-wrapper
 	background-color: $filterbar-background
 	padding: 10px 0
+
+.timeline-filter-filter
+	color: $filter-color
 
 .timeline-filter
 	width: 90%
@@ -60,16 +73,12 @@ footer.page-footer
 		-webkit-margin-before: 0
 		-webkit-margin-after: 0
 
-		li
-			display: inline
-			padding-right: 20px
-
 .timeline
 	position: relative
 	width: 90%
 	max-width: 1600px
 	margin: 0px auto
-	padding: 20px 0 100px 0
+	padding: 20px 0 100px 0 
 
 	&::before
 		content: ''
@@ -79,10 +88,18 @@ footer.page-footer
 		height: 100%
 		width: 4px
 		background: $timeline-line-color
+		border: 1px solid #999999
+
+.timeline-description 
+	li 
+		margin-right: 35px !important
 
 .timeline-entry
 	position: relative
-	margin-top: -75px
+	margin-top: -75px	
+
+	li 
+		margin-right: 35px !important
 
 	&.first
 		margin-top: 10px
@@ -118,13 +135,21 @@ footer.page-footer
 	width: 45%
 	background-color: $card-background
 	padding: 20px
-	box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3)
+	box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.3)
 	display: inline-block
 	z-index: 1
+	border-radius: 5px
+	border: 1px solid #999999 
+
+	li 
+		margin-right: 35px
 
 	.timestamp
 		font-style: italic
-		font-size: 80%
+		font-size: 90%
+
+		time 
+			font-weight: bold
 
 		.note
 			color: $timestamp-color
@@ -148,17 +173,12 @@ footer.page-footer
 				opacity: 0.5
 
 	p, ul
+		width: 100%
 		margin: 5px 0 10px 0
 		-webkit-margin-before: 5px
 		-webkit-margin-after: 10px
-		list-style-type: circle
+		font-size: 16px
 
-	li 
-		margin: 10px 0px 10px 0px
-
-	li a 
-			color: #0075ff
-	
 	img
 		max-width: 150px
 		display: block
@@ -230,7 +250,7 @@ footer.page-footer
 @media only screen and (min-width: 415px)
 	.timeline-description:after
 		top: 20px
-		border: solid transparent
+		border: solid transparent 
 		content: ' '
 		height: 0
 		width: 0
@@ -281,6 +301,7 @@ footer.page-footer
 	.timeline-entry.odd .timeline-description,
 	.timeline-entry.even .timeline-description
 		margin-left: 35px
+		margin-bottom: 15px
 
 // DARK MODE
 @media (prefers-color-scheme: dark)
@@ -366,5 +387,3 @@ footer.page-footer
 
 	.timeline-description
 		width: 90%
-	
-	

@@ -14,8 +14,11 @@ function hideUnchecked() {
   var checkedBoxes = document.querySelectorAll('input[type="checkbox"][name="filter"]:checked');
   if (checkedBoxes.length < allBoxes.length) {
     document.querySelector('input[type="checkbox"]#all').checked = false;
+    document.querySelector('input[type="checkbox"]#none').checked = false;
+    //alert('false');
   } else {
     document.querySelector('input[type="checkbox"]#all').checked = true;
+    //alert('true');
   }
 
   var activeFilters = [];
@@ -47,6 +50,24 @@ function checkAll() {
   checkboxes.forEach(function (box) {
     box.checked = true;
   });
+  //document.getElementById("all").style.display = 'none';
+  //document.getElementById("none").style.display = 'block';
+  document.getElementById("none").checked = false;
+  var entries = document.getElementsByClassName('timeline-entry');
+  for (var i = 0; i < entries.length; i++) {
+    show(entries[i]);
+  }
+  reflowEntries();
+}
+
+function uncheckAll() {
+  var checkboxes = document.querySelectorAll('input[type="checkbox"][name="filter"]');
+  checkboxes.forEach(function (box) {
+    box.checked = false;
+  });
+  //document.getElementById("all").style.display = 'block';
+  //document.getElementById("none").style.display = 'none';
+  document.getElementById("all").checked = false;
   var entries = document.getElementsByClassName('timeline-entry');
   for (var i = 0; i < entries.length; i++) {
     show(entries[i]);
@@ -86,6 +107,7 @@ function onload() {
     box.addEventListener('click', hideUnchecked);
   });
   document.querySelector('input[type="checkbox"]#all').addEventListener('click', checkAll);
+  document.querySelector('input[type="checkbox"]#none').addEventListener('click', uncheckAll);
 
   /* Flow entries */
   reflowEntries();

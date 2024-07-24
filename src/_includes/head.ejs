@@ -13,8 +13,8 @@
 />
 <link
   rel="stylesheet"
-  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css"
-  integrity="sha512-YWzhKL2whUzgiheMoBFwW8CKV4qpHQAEuvilg9FAn5VJUDwKZZxkJNuGM4XkWuk94WCrrwslk8yWNGmY1EduTA=="
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+  integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
   crossorigin="anonymous"
   referrerpolicy="no-referrer"
 />
@@ -23,4 +23,52 @@
 <link rel="icon" type="image/png" href="img/favicon.png" />
 <meta property="og:title" content="<%= head.title %>" />
 <meta property="og:type" content="article" />
-<meta property="og:image" content="img/og-image.jpg" />
+<meta property="og:image" content="https://timeline-surf-santa-catarina.vercel.app/img/og-image.png" />
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/scrolltopcontrol.min.js"></script>
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="https://timeline-surf-santa-catarina.vercel.app/" />
+<meta name="twitter:creator" content="@araguaci" />
+<meta name="twitter:image" content="https://timeline-surf-santa-catarina.vercel.app/img/og-image.png" />
+<style>
+  body {
+    --sb-track-color: #0070C0;
+    --sb-thumb-color: #999999;
+    --sb-size: 12px;
+  }
+  body::-webkit-scrollbar {
+    width: var(--sb-size);
+  }
+  body::-webkit-scrollbar-track {
+    background: var(--sb-track-color);
+    border-radius: 12px;
+  }
+  body::-webkit-scrollbar-thumb {
+    background: var(--sb-thumb-color);
+    border-radius: 12px;
+    border: 2px solid #FFC000;
+  }
+  @supports not selector(::-webkit-scrollbar) {
+    body {
+      scrollbar-color: var(--sb-thumb-color) var(--sb-track-color);
+    }
+  }
+  .timeline-filter-wrapper ul { 
+    padding: 0;
+    display: flex;
+    flex-flow: row wrap;
+    width:fit-content;
+    box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+  }
+  .timeline-filter-wrapper li {
+      background-color: #D0D0D0;
+      display:table-cell;
+      width: 14%;
+      min-width: 14%;
+  }
+  .timeline-filter-wrapper li:nth-child(2n) {
+      background-color: #e0e0e0;
+  }  
+</style>
