@@ -1008,6 +1008,25 @@ const entries = [
             linkText: 'FECASURF - Tainá Hinckel, a primeira campeã catarinense profissional da história',
         }, ],
     },
+    {
+        id: '20230924',
+        categories: ['santinho', 'CAMPEÃ'],
+        color: 'violet',
+        faicon: 'female',
+        datetime: '2023-09-24',
+        title: 'Tainá Hinckel e Peterson Crisanto vencem a 4ª etapa do Dream Tour Maceió',
+        image: {
+            link: 'https://hardcore.com.br/taina-hinckel-e-peterson-crisanto-vencem-a-4a-etapa-do-dream-tour-maceio/',
+            src: 'https://hardcore.com.br/wp-content/uploads/sites/21/2023/09/unnamed-33-scaled-e1695600522864.jpg',
+            alt: 'Atleta Tainá Hinckel garante o título brasileiro profissional por antecipação. Foto: Lima Júnior',
+            caption: 'Tainá Hinckel',
+        },
+        body: "Decisão final da 4ª etapa do Vivo Dream Tour Maceió. Os atletas integrantes da Divisão Principal da Confederação Brasileira de Surf (CBSurf) competiram em um dia de muito sol na praia de Trapiche da Barra.",
+        links: [{
+            href: 'https://hardcore.com.br/taina-hinckel-e-peterson-crisanto-vencem-a-4a-etapa-do-dream-tour-maceio/',
+            linkText: 'Atleta Tainá Hinckel garante o título brasileiro profissional',
+        }, ],
+    },
 ];
 
 // Page details
