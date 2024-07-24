@@ -1,3 +1,11 @@
+# Início do Surf no Brasil
+
+![Linha do tempo do início do surf brazuca](https://hardcore.com.br/wp-content/uploads/sites/21/2022/07/linha-do-tempo-surf-brasileiro-2.jpg)
+*hardcore.com.br*
+
+[Fonte...](https://hardcore.com.br/historia-do-surf-brasileiro-descobrimos-a-1-prancha-catarinense-1940/)
+
+
 # Timeline Surf Santa Catarina
 
 Linha do Tempo de eventos importantes relacionados ao surfe em Santa Catarina.
