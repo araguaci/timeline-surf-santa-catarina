@@ -1,7 +1,23 @@
 # Timeline Surf Santa Catarina
 
-[working in progress](./TIMELINE.md)
+Linha do Tempo de eventos importantes relacionados ao surfe em Santa Catarina.
+História da evolução do surfe no estado e Escolas de Surf com o apoio da ACESSC.
 
+  - [Timeline Surf Santa Catarina](https://timeline-surf-santa-catarina.vercel.app/)
+  - [working in progress](./TIMELINE.md)
+
+
+## Escolas de Surf FECEESS / ACESSC
+
+**Unindo talentos e fortalecendo a educação e o esporte em Santa Catarina**
+
+A FEDERAÇÃO CATARINENSE DE ESPECIALISTAS E **ESCOLAS DE SURF E STAND UP PADDLE**, com a sigla FECEESS ou [ACES-SC](https://escolasdesurf.org.br/), é uma associação civil, de direito privado, de âmbito estadual, sem fins lucrativos e/ou econômicos, fundada em 07 de novembro de 2003, com sede e foro na cidade de Florianópolis, na Rodovia João Gualberto Soares, 7145 sala 03, CEP 88.060-000, Rio Vermelho, Florianópolis – SC Estado de Santa Catarina.
+
+Entende-se como Especialista em Surf e Escolas de Surf, escolas de esporte e profissionais especializados em surf e todas as suas extensões, a saber: surf, bodyboard, stand up Paddle, surfe de peito e tow-in, segundo preceitos [ACES-SC](https://escolasdesurf.org.br/) / [FECASURF](http://www.fecasurf.com.br/) / [CREF-SC](https://www.crefsc.org.br/?s=surf).
+
+  - [A.C.E.S. SC](https://escolasdesurf.org.br/)
+  - [F.E.C.E.E.S.S.](https://feceess.escolasdesurf.org.br/)
+  - 
 ## Static timeline generator
 
 Easily create a static timeline webpage like my [Wikimedia timeline](https://www.mollywhite.net/wikimedia-timeline/).
