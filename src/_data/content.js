@@ -822,6 +822,25 @@ const entries = [{
             linkText: 'II Rock, Surf e Brotos',
         }, ],
     },
+    {
+        id: 'surf',
+        categories: ['laguna'],
+        color: 'blue',
+        faicon: 'flag-checkered',
+        datetime: '1940-01-01',
+        title: 'História do surf brasileiro: Descobrimos a 1ª prancha catarinense (1940)',
+        image: {
+            link: 'https://hardcore.com.br/historia-do-surf-brasileiro-descobrimos-a-1-prancha-catarinense-1940/',
+            src: 'https://hardcore.com.br/wp-content/uploads/sites/21/2022/07/historia-do-surf-brasileiro-01.jpg',
+            alt: 'Francisco Perfeito da Silva (à dir.) e amigo em Laguna (SC) entre os anos 1940 e 1943. Foto: Arquivo pessoal Yohann Ivanoski',
+            caption: 'Francisco Perfeito da Silva, Laguna',
+        },
+        body: "A história não é estática. Ao contrário, ela é dinâmica e muda à medida que novas descobertas são feitas e, dessa forma, a história do surf brasileiro não poderia ser diferente. Até agora, há um consenso de que o surf no Brasil começou na década de 1930, em Santos (SP), com os irmãos Thomas e Margot Rittscher, que passaram o bastão para a turma de Jua hafers e Osmar Gonçalves seguir surfando as ondas da praia do Gonzaga, nos anos 1940.",
+        links: [{
+            href: 'https://hardcore.com.br/historia-do-surf-brasileiro-descobrimos-a-1-prancha-catarinense-1940/',
+            linkText: 'Francisco Perfeito da Silva (à dir.) e amigo em Laguna (SC) entre os anos 1940 e 1943. Foto: Arquivo pessoal Yohann Ivanoski',
+        }, ],
+    },
 ];
 
 // Page details
