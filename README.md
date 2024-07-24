@@ -25,7 +25,7 @@ Entende-se como Especialista em Surf e Escolas de Surf, escolas de esporte e pro
 
   - [A.C.E.S. SC](https://escolasdesurf.org.br/)
   - [F.E.C.E.E.S.S.](https://feceess.escolasdesurf.org.br/)
-  - 
+
 ## Static timeline generator
 
 Easily create a static timeline webpage like my [Wikimedia timeline](https://www.mollywhite.net/wikimedia-timeline/).
